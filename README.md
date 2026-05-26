@@ -1,4 +1,3 @@
-# 💫 About Me:
 🚀 Full Stack Developer | AI/ML Engineer | System Builder  
 
 I design and build **scalable full-stack applications** and **intelligent AI systems** that solve real-world problems.  
